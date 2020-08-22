@@ -1,6 +1,6 @@
 
 # frontend-interview
-
+## this is testing header
 ## Javascript
 
 <details>
@@ -1139,7 +1139,7 @@ this.setState((prevState, props) => ({
   ![cons of typescript](./cons-of-typescript.png)
 
   If you can use typescript, do so. There's no way it's going to give a bad effect on your project. 
-
+  t
   ### Pros
   
   Pros? Everything. Explain everything that the language offers to you. Compare it with javascript. 
